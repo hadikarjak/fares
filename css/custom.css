@@ -1,0 +1,26 @@
+a,
+a:hover {
+    text-decoration: none;
+}
+
+body {
+    background-color: #2C2E43;
+    font-family: 'Tajawal', sans-serif;
+}
+
+.login {
+    padding: 30px;
+    border-radius: 3px;
+    margin: 50px;
+    background-color: #595260;
+}
+
+.login form label {
+    color: #FFD523;
+}
+
+.login h2 {
+    color: #FFD523;
+    margin-bottom: 25px;
+    text-align: center;
+}
